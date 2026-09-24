@@ -30,7 +30,7 @@ This project focuses on Sales Prediction by analyzing the impact of advertising 
 
 ## 💡 "Aha!" Moments
 *   **Advertising Impact:** Analysis revealed distinct impacts of different media channels. A **TV-Focused** strategy showed the highest correlation with overall sales volume, while balanced approaches offered stability.
-*   **Regional Insights:** Significant variations in sales performance were observed across regions, suggesting a need for localized marketing strategies rather than a one-size-fits-all approach.
+*   **Budget Allocation Scenarios:** We simulated four distinct allocation strategies (TV Focused, Balanced, Radio Focused, Newspaper Focused) to quantify their direct impact on predicted sales, providing a clear decision framework for marketing investment.
 *   **Model Efficiency:** While complex models like SVM were explored, ensemble methods provided superior accuracy in capturing non-linear relationships between ad spend and revenue.
 
 ---
