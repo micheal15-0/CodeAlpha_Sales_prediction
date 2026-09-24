@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛒 Retail Sales Analytics: Driving Business Growth
+# 📈 AdSpend Predictor: Optimizing Marketing ROI
 
-### *Unlocking actionable insights from retail data to optimize marketing strategies and forecast sales.*
+### *Forecasting sales volume by analyzing the impact of multi-channel advertising budgets.*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -14,7 +14,7 @@
 ---
 
 ## 📖 The Mission (Overview)
-This project analyzes retail sales data using Python to extract strategic insights. It combines rigorous cleaning, exploratory analysis, and predictive modeling to understand the impact of advertising spend, target segments, and platforms. The goal is to forecast future sales and optimize marketing strategies through actionable recommendations.
+This project focuses on Sales Prediction by analyzing the impact of advertising spend. It combines rigorous data cleaning, exploratory analysis, and predictive modeling to quantify how different media channels drive revenue. The goal is to forecast future sales accurately and provide actionable insights for optimizing marketing budgets.
 
 ## 🧰 The Toolkit
 *   **Data Wrangling:** `Pandas`, `NumPy`
