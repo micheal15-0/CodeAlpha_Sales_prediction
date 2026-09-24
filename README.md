@@ -14,7 +14,7 @@
 ---
 
 ## 📖 The Mission (Overview)
-This project aims to analyze and visualize retail sales data using Python. The primary objective is to extract relevant insights through rigorous data cleaning, exploratory analysis, and predictive modeling. By understanding the relationship between advertising spend, target segments, and platforms, we aim to forecast future sales and deliver actionable recommendations for business marketing strategies.
+This project analyzes retail sales data using Python to extract strategic insights. It combines rigorous cleaning, exploratory analysis, and predictive modeling to understand the impact of advertising spend, target segments, and platforms. The goal is to forecast future sales and optimize marketing strategies through actionable recommendations.
 
 ## 🧰 The Toolkit
 *   **Data Wrangling:** `Pandas`, `NumPy`
